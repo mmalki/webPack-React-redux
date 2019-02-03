@@ -1,7 +1,7 @@
 import React, { Component } from 'react'
 import ReactDOM from 'react-dom'
 
-
+///https://www.valentinog.com/blog/redux/
 class ExampleComponent  extends Component {
     constructor(props) {
         super(props);

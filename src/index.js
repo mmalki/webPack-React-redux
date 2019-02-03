@@ -1,3 +1,3 @@
 
-import ExampleComponent from "./js/components/container/ExampleComponent.jsx";
+import index from './js/index'
 
