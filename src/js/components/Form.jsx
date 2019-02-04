@@ -57,6 +57,7 @@ class ConnectedForm extends Component {
         <button type="submit" className="btn btn-success btn-lg">
           SAVE
         </button>
+        <div><br></br></div>
         <button type="button" className="btn btn-success btn-lg" onClick={this.handleOnClick}>
           Delete
         </button>
